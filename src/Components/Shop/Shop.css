@@ -1,0 +1,15 @@
+.shop-section{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    margin: 10px 0 0px 50px;
+}
+
+.product-card-design{
+    display:grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 50px;
+    /* margin: 0px; */
+    padding: 10px;
+    position: relative;
+   
+}
